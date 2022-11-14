@@ -11,3 +11,5 @@
 1. git log - sýnir söguna af repository
 2. git checkout - leyfir þér að fara á milli branch sem að þú gerðir með git branch skipuninni
 3. git branch - leyfir þér að búa til lista, endurnefna eða eyða branch
+# 4. Hvað er útgáfustýring (Version Control)
+Útgáfustýring skráir niður sögu skráarinnar og leyfir manni að fara til baka ef að þú þarft
