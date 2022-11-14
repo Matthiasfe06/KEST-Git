@@ -9,3 +9,8 @@ Lorem veniam fugiat do laborum reprehenderit ex veniam. Consequat anim dolore re
 ### Ut sunt incididunt magna aute sint veniam dolor laborum.
 Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa id sit Lorem. Magna sint magna sint do ex ipsum tempor duis esse dolore elit irure.
 #### Sunt nisi excepteur mollit nostrud ipsum consequat.
+python | c/c++ 
+--- | --- | ---
+print | Serial.print()
+while i < 10 | while(i < 10)
+def fall() | void fall() 
