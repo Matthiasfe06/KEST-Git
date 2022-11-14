@@ -33,4 +33,4 @@ Serial.println(s);
 ### Commodo quis id ut deserunt cillum.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo
 " target="_blank"><img src="http://img.youtube.com/vi/HUBNt18RFbo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
+alt="IMAGE ALT TEXT HERE"/></a>
