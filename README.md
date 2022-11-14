@@ -29,6 +29,8 @@ Serial.println(s);
 * Do duis ut est
 * Do duis ut est
 ### Incididunt eiusmod enim culpa sit voluptate velit adipisicing voluptate anim ut incididunt commodo ea.
-!(https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-705x475.jpg "Skólavörðuholt")
+![alt text](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-705x475.jpg "Skólavörðuholt")
 ### Commodo quis id ut deserunt cillum.
-[http://img.youtube.com/vi/HUBNt18RFbo/0.jpg](http://www.youtube.com/watch?v=HUBNt18RFbo)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo
+" target="_blank"><img src="http://img.youtube.com/vi/HUBNt18RFbo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
