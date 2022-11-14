@@ -13,3 +13,5 @@
 3. git branch - leyfir þér að búa til lista, endurnefna eða eyða branch
 # 4. Hvað er útgáfustýring (Version Control)
 Útgáfustýring skráir niður sögu skráarinnar og leyfir manni að fara til baka ef að þú þarft
+# 5. Helstu kostir við að nota GIT
+Helstu kostirnir við að nota GIT eru branch möguleikarnir.
