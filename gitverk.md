@@ -15,3 +15,5 @@
 Útgáfustýring skráir niður sögu skráarinnar og leyfir manni að fara til baka ef að þú þarft
 # 5. Helstu kostir við að nota GIT
 Helstu kostirnir við að nota GIT eru branch möguleikarnir.
+# 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Ég tel að það er best að gera færslur á fimm mínútna fresti eða minna. Ekki meira en 5 min.
