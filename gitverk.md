@@ -17,3 +17,6 @@
 Helstu kostirnir við að nota GIT eru branch möguleikarnir.
 # 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 Ég tel að það er best að gera færslur á fimm mínútna fresti eða minna. Ekki meira en 5 min.
+# 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+Working Directory eru skjöl sem að þú ert að vinna í.
+Stageing Area eru skjöl sem að verða partur af næstu færslu.
